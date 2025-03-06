@@ -65,7 +65,7 @@ async function swiper (){
     await menu();
     await menuBtns();
     await slider();
-    var swiper = new Swiper(".mySwiper", {
+    var Swiper = new Swiper(".mySwiper", {
         spaceBetween: 0,
         centeredSlides: true,
         autoplay: {
