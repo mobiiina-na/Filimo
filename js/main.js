@@ -65,7 +65,7 @@ async function swiper (){
     await menu();
     await menuBtns();
     await slider();
-    var Swiper = new Swiper(".mySwiper", {
+    var swiper = new Swiper(".mySwiper", {
         spaceBetween: 0,
         centeredSlides: true,
         autoplay: {
@@ -81,6 +81,7 @@ async function swiper (){
           prevEl: ".swiper-button-prev",
         },
       });
+      swiper
 }
 
 
@@ -115,6 +116,7 @@ async function secSwiper(){
       },
     },
   });
+  secSwiper
 }
 
 
