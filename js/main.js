@@ -1,6 +1,6 @@
 import  {menu , menuBtns  } from "./Menu/menu.js";
 
-import  {slider , coverText , threeTiks , watchDiscountBtn} from "./Slider/slider.js";
+import  {slider , coverText , threeTiks , watchDiscountBtn} from "./swiper/swiper.js";
 
 import {popularTitle , swichBtn , filmSeries ,imageBackgroung} from "./PopularFilimo/popular.js"
 
