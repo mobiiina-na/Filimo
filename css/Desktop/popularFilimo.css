@@ -1,0 +1,221 @@
+.popularFilimo{
+    width: 100%;
+    display: flex;
+    flex-flow: column nowrap ;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    .titleBtn{
+        width: 100%;
+        display: flex;
+        flex-flow: row nowrap ;
+        justify-content: start;
+        align-items: center;
+        gap: 20px;
+        background-color: #151515;
+        padding: 20px 60px;
+        box-sizing: border-box;
+        .title{
+            font-family: iranSans;
+            font-size: 17px;
+            font-weight: bold;
+            color: white;
+        }
+        .swichBtn{
+            width: 7%;
+            border: 1px solid #5f5f5f;
+            border-radius: 50px;
+            display: flex;
+            flex-flow: row nowrap ;
+            justify-content: space-between;
+            align-items: center;
+            padding: 5px 7px;
+            .right{
+                color: white;
+                font-family: iranSans;
+                font-size: 11px;
+            }
+            .left {
+                color: white;
+                font-family: iranSans;
+                font-size: 11px;
+            };
+        }
+    }
+    .filmSeries{
+        width: 100%;
+        height: 200px;
+        display: flex;
+        flex-flow: row nowrap ;
+        justify-content: center;
+        align-items: center;
+        gap: 23px;
+        padding: 40px 0px;
+        box-sizing: border-box;
+        background-color: #151515;
+        .film{
+            width: 100%;
+            display: flex;
+            flex-flow: row nowrap ;
+            justify-content: center;
+            align-items: center;
+            img{
+                width: 60%;
+                border-radius: 10px;
+                opacity: 0.4;
+                transition: 500ms;
+                cursor: pointer;
+                &:hover{
+                    opacity: 1;
+                }
+            }
+        }
+    }
+    .imageBackgroung{
+        width: 100%;
+        height: 60%;
+        display: flex;
+        flex-flow: row nowrap ;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .chosenFilm{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            padding: 50px;
+            box-sizing: border-box;
+            top: 0;
+            background-color: rgb(0, 0, 0,0.8);
+            z-index: 2;
+            .title{
+                width: 100%;
+                height: 40%;
+                display: flex;
+                flex-flow: row nowrap ;
+                justify-content: start;
+                align-items: center;
+                .textTitle{
+                    width: 70%;
+                    display: flex;
+                    flex-flow: column nowrap ;
+                    justify-content: start;
+                    align-items: center;
+                    gap: 30px;
+                    .nameMovie{
+                        width: 100%;
+                        color: white;
+                        font-family: iranSans;
+                        font-size: 15px;
+                        font-weight: bold;
+                        display: flex;
+                        flex-flow: row nowrap ;
+                        justify-content: start;
+                        align-items: center;
+                    }
+                    .director{
+                        width: 100%;
+                        color: rgb(127, 127, 127, 0.8);
+                        font-family: iranSans;
+                        font-size: 10px;
+                        display: flex;
+                        flex-flow: row nowrap ;
+                        justify-content: start;
+                        align-items: center;
+                    }
+                    .zhanr{
+                        width: 100%;
+                        display: flex;
+                        flex-flow: row nowrap ;
+                        justify-content: start;
+                        align-items: center;
+                        gap: 10px;
+                        .right{
+                            width: 8%;
+                            height: 25px;
+                            border-radius: 30px;
+                            display: flex;
+                            flex-flow: row nowrap ;
+                            justify-content: center;
+                            align-items: center;
+                            background-color: #282828;
+                            color: white;
+                            font-family: iranSans;
+                            font-size: 11px;
+                            padding: 5px;
+                            box-sizing: border-box;
+                        }
+                        .left{
+                            width: 8%;
+                            height: 25px;
+                            border-radius: 30px;
+                            padding: 5px;
+                            box-sizing: border-box;
+                            display: flex;
+                            flex-flow: row nowrap ;
+                            justify-content: center;
+                            align-items: center;
+                            background-color: #282828;
+                            color: white;
+                            font-family: iranSans;
+                            font-size: 11px;
+                        }
+                    }
+                    .description{
+                        width: 100%;
+                        color: white;
+                        font-family: iranSans;
+                        font-size: 12px;
+                        display: flex;
+                        flex-flow: row nowrap ;
+                        justify-content: start;
+                        align-items: center;
+                    }
+                }
+            }
+            .logoTitle{
+                width: 30%;
+                display: flex;
+                flex-flow: row nowrap ;
+                justify-content: end;
+                align-items: center;
+                img{
+                    width: 70%;
+                }
+            }
+            .episodes{
+                width: 100%;
+                display: flex;
+                flex-flow: column nowrap ;
+                justify-content: center;
+                align-items: start;
+                gap: 10px;
+                img{
+                    width: 20%;
+                    object-fit: contain;
+                    border-radius: 10px;
+                    opacity: 0.3;
+                }
+                .title{
+                    width: 20%;
+                    color: white;
+                    font-family: iranSans;
+                    font-size: 11px;
+                }    
+            }
+        }
+    }
+
+    
+}
+
+
+.notopacity{
+    opacity: 1 !important;
+}
+

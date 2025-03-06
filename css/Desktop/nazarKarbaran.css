@@ -1,0 +1,62 @@
+.nazarKarbaran{
+    width: 100%;
+    height: 300px;
+    background-color: #151515;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    .titleKarbar{
+        width: 100%;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: start;
+        align-items: center;
+        font-family: iranSans;
+        font-size: 16px;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+    }
+    .nazarat{
+        width: 100%;
+        height: 70%;
+        background-color: #fff;
+    }
+}
+
+
+.nazarat>.swiper {
+    width: 100%;
+    height: 100%;
+    background-color: #151515;
+  }
+
+  .nazarat>.swiper>.swiper-wrapper>.swiper-slide{
+    height: 90%;
+    text-align: center;
+    font-size: 13px;
+    background: #151515 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: iranSans;
+    background-color: #2b2b2b;
+    border-radius: 15px;
+    border: 1px solis rgb(47, 47, 47);
+  }
+
+  @media (max-width: 760px) {
+    .swiper-button-next {
+      right: 20px;
+      transform: rotate(90deg);
+    }
+
+    .swiper-button-prev {
+      left: 20px;
+      transform: rotate(90deg);
+    }
+  }

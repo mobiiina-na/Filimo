@@ -1,0 +1,91 @@
+.soalatMotedavel{
+    width: 100%;
+    height: 650px;
+    background-color: #151515;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    .titleAccar{
+        width: 100%;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        .title{
+            width: 100%;
+            font-size: 16px;
+            color: rgb(255, 255, 255);
+            font-weight: bold;
+            display: flex;
+            flex-flow: column nowrap;
+            justify-content: center;
+            font-family: iranSans;
+            align-items: center;
+        }
+        .desc{
+            width: 100%;
+            display: flex;
+            flex-flow: column nowrap;
+            justify-content: center;
+            align-items: center;
+            font-size: 13px;
+            color: rgb(134, 134, 134);
+            font-family: iranSans;
+        }
+    }
+    .accars{
+        width: 100%;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        .accar{
+            width: 70%;
+            padding: 20px;
+            box-sizing: border-box;
+            background-color: #161616;
+            border-radius: 10px;
+            border: 1px solid rgb(75, 75, 75);
+            cursor: pointer;
+            display: flex;
+            flex-flow: column nowrap;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            transition: 400ms;
+
+            .titleAccar{
+                width: 100%;
+                font-family: iranSans;
+                color: rgb(255, 162, 90);
+                font-size: 14px;
+                display: flex;
+                flex-flow: row nowrap;
+                justify-content: start;
+                align-items: center;
+                gap: 20px;
+            }
+            .descAccar{
+                width: 100%;
+                font-family: iranSans;
+                color: white;
+                font-size: 12px;
+                display: flex;
+                flex-flow: row nowrap;
+                justify-content: start;
+                align-items: center;
+                display: none;
+            }
+        }
+    }
+}
+
+.active{
+    .descAccar{
+        display: block !important;
+    }
+}

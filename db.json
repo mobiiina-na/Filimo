@@ -1,0 +1,535 @@
+{
+    "menu":[
+        {
+            "id":1,
+            "title": "گنج فیلیمو",
+            "href":"https://www.filimo.com/ganj/auth/login?utm_source=Filimo&utm_medium=Menu&utm_campaign=Ganj1403"
+        },
+        {
+            "id":2,
+            "title": "فیلیمو مدرسه",
+            "href":"https://www.filimo.school/?utm_source=filimo-web&utm_medium=navigation&utm_campaign=filimo-user&utm_content=home"
+        },
+        {
+            "id":3,
+            "title": "جستجو",
+            "href":"#"
+        }
+    ],
+    "menuBtns":[
+        {
+            "id":1,
+            "title":"خرید اشتراک",
+            "href":"#"
+        },
+        {
+            "id":2,
+            "title":"ورود",
+            "href":"#"
+
+        }
+    ],
+    "sliders":[
+        {
+            "id":1,
+            "src":"https://iili.io/39M3k7t.webp",
+            "alt":"img"
+        },
+        {
+            "id":2,
+            "src":"https://iili.io/39M3vkX.webp",
+            "alt":"img"
+        },
+        {
+            "id":3,
+            "src":"https://iili.io/39M38pn.webp",
+            "alt":"img"
+        },
+        {
+            "id":4,
+            "src":"https://iili.io/39M3ghG.webp",
+            "alt":"img"
+        }
+    ],
+    "coverText":[
+        {
+            "id":1,
+            "title":"با فیلیمو بی وقفه فیلم ببین"
+        },
+        {
+            "id":2,
+            "title":"کنترل همیشه دست توست!"
+        }
+    ],
+    "threeTiks":[
+        {
+            "id":"1",
+            "title":"98 هزار اپیزود فیلم و سریال برای تماشا داری"
+        },
+        {
+            "id":"2",
+            "title":"میتونی دانلود کنی بعد بدون اینترنت تماشا کنی"
+        },
+        {
+            "id":"3",
+            "title":"میتونی یک عضو مخصوص تماشای کودک بسازی"
+        }
+    ],
+    "watchDiscountBtn":[
+        {
+            "id":1,
+            "title":"خرید اشتراک و تماشا",
+            "href":"#"
+        },
+        {
+            "id":2,
+            "title":"تخفیف ویژه برای کاربران جدید"
+        }
+    ],
+    "popularTitle":[
+        {
+            "id":1,
+            "title":"محبوب ترین های فیلیمو"
+        }
+    ],
+    "swichBtn":[
+        {
+            "id":1,
+            "title":"سریال"
+        },
+        {
+            "id":2,
+            "title":"فیلم"
+        }
+    ],
+    "filmSeries":[
+        {
+            "id":1,
+            "img":"https://iili.io/39gSJaI.webp",
+            "alt":"img"
+        },
+        {
+            "id":2,
+            "img":"https://iili.io/39gSH3N.webp",
+            "alt":"img"
+        },
+        {
+            "id":3,
+            "img":"https://iili.io/39g8DZJ.webp",
+            "alt":"img"
+        },
+        {
+            "id":4,
+            "img":"https://iili.io/39g8mCv.webp",
+            "alt":"img"
+        },
+        {
+            "id":5,
+            "img":"https://iili.io/39g8pGR.webp",
+            "alt":"img"
+        },
+        {
+            "id":6,
+            "img":"https://iili.io/39g8y4p.webp",
+            "alt":"img"
+        }
+    ],
+    "tasianDesc":[
+        {
+            "id":1,
+            "srcBack":"https://iili.io/33WW6BV.webp",
+            "alt":"img",
+            "nameMovie":"تاسیان",
+            "director":"کارگردان:تینا پاکروان",
+            "right":"درام",
+            "left":"عاشقانه",
+            "description":"امیر که بخاطر شیرین وارد ساواک شده، وقتی برای نزدیک شدن به او پیش قدم می شود می فهمد که چهارشنبه روز خواستگاری او...",
+            "srclogoTitle":"https://iili.io/33WRmKv.webp",
+            "srcEpisode":"https://iili.io/33WRDiJ.webp",
+            "titleEpisode":"فصل1:قسمت1"
+        }
+    ],
+    "watchWithAllDevices":[
+        {
+            "id":1,
+            "src":"https://iili.io/3Hk4zW7.webp",
+            "alt":"img"
+        }
+    ],
+    "titleDiveces":[
+        {
+            "id":1,
+            "title":"تماشای فیلیمو با همه دستگاه‌ها",
+            "description":"می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
+        }
+    ],
+    "devices":[
+        {
+            "id":1,
+            "name":"کامپیوتر و لپ‌تاپ",
+            "model":"windows PC - MacOS - Chorom OS"
+        },
+        {
+            "id":2,
+            "name":"موبایل و تبلت",
+            "model":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
+        },
+        {
+            "id":3,
+            "name":"کنسول‌های بازی (Browser)",
+            "model":"Xbox Series S - Xbox Seris X - PS5 - PS4"
+        }
+    ],
+    "btnDevices":[
+        {
+            "id":1,
+            "text":"خرید اشتراک و تماشا",
+            "href":"#"
+        }
+    ],
+    "titleDescTv":[
+        {
+            "id":1,
+            "title":"چطور با تلویزیون، فیلیمو تماشا کنم؟",
+            "description":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید."
+        }
+    ],
+    "modelTv":[
+        {
+            "id":1,
+            "nameTv":"تلویزیون",
+            "model":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"
+        },
+        {
+            "id":2,
+            "nameTv":"اندروید تی‌وی",
+            "model":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
+        }
+    ],
+    "btnTv":[
+        {
+             "id":1,
+            "btnTvText":"ویدیو های اموزشی تماشا با تلوزیون"
+        }
+    ],
+    "imgTv":[
+        {
+            "id":1,
+            "src":"https://iili.io/3JbDDJ9.webp",
+            "alt":"img"
+        }
+    ],
+    "imgKartoon":[
+        {
+            "id":1,
+            "src":"https://iili.io/3dAXQOQ.webp",
+            "alt":"img"
+        }
+    ],
+    "textKartoon":[
+        {
+            "id":1,
+            "title":"دنیایی متنوع از فیلم و کارتون‌های کودکانه",
+            "desc":" ساخت فیلیمو کودک این امکان را می‌دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال‌ها دسترسی نداشته‌باشد. "
+        }
+    ],
+    "btnKartoon":[
+        {
+            "id":1,
+            "title":"فیلیمو کودک بساز",
+            "href":"#"
+        },
+        {
+            "id":2,
+            "title":"تماشای فیلیمو کودک",
+            "href":"#"
+        }
+        
+    ],
+    "titleFree":[
+        {
+            "id":1,
+            "title":"محتوای رایگان"
+        }
+    ],
+    "imgFree":[
+        {
+            "id":1,
+            "href":"#",
+            "src":"https://iili.io/3dlkIx1.webp",
+            "alt":"img",
+            "name":"صلیب طلایی"
+        },
+        {
+            "id":2,
+            "href":"#",
+            "src":"https://iili.io/3dlkTWF.webp",
+            "alt":"img",
+            "name":"خوب بد جلف"
+
+        },
+        {
+            "id":3,
+            "href":"#",
+            "src":"https://iili.io/3dlkoOB.webp",
+            "alt":"img",
+            "name":" شب های مافیا"
+        },
+        {
+            "id":4,
+            "href":"#",
+            "src":"https://iili.io/3dlkxDP.webp",
+            "alt":"img",
+            "name":"پنجه در خاک"
+        },
+        {
+            "id":5,
+            "href":"#",
+            "src":"https://iili.io/3dlkuig.webp",
+            "alt":"img",
+            "name":" زهر عسل"
+        },
+        {
+            "id":6,
+            "href":"#",
+            "src":"https://iili.io/3dlkRfa.webp",
+            "alt":"img",
+            "name":" سال های دور از خانه "
+        },
+        {
+            "id":7,
+            "href":"#",
+            "src":"https://iili.io/3dlk50J.webp",
+            "alt":"img",
+            "name":"مردم معمولی"
+        },
+        {
+            "id":8,
+            "href":"#",
+            "src":"https://iili.io/3dlk7Uv.webp",
+            "alt":"img",
+            "name":" شب های مافیا2"
+        },
+        {
+            "id":9,
+            "href":"#",
+            "src":"https://iili.io/3dlkaJR.webp",
+            "alt":"img",
+            "name":"چپ دست"
+        },
+        {
+            "id":10,
+            "href":"#",
+            "src":"https://iili.io/3dlkcRp.webp",
+            "alt":"img",
+            "name":"راز دشت تاران"
+        },
+        {
+            "id":11,
+            "href":"#",
+            "src":"https://iili.io/3dlk0bI.webp",
+            "alt":"img",
+            "name":" زهر عسل"
+        },
+        {
+            "id":12,
+            "href":"#",
+            "src":"https://iili.io/3dlkExt.webp",
+            "alt":"img",
+            "name":" بالشها"
+        },
+        {
+            "id":13,
+            "href":"#",
+            "src":"https://iili.io/3dlkMsn.webp",
+            "alt":"img",
+            "name":" ویرانگر"
+        },
+        {
+            "id":14,
+            "href":"#",
+            "src":"https://iili.io/3dlkWfs.webp",
+            "alt":"img",
+            "name":" عقرب"
+        },
+        {
+            "id":15,
+            "href":"#",
+            "src":"https://iili.io/3dlkX0G.webp",
+            "alt":"img", 
+            "name":"پایتخت"
+        }
+    ],
+    "cinamaTitle":[
+        {
+            "id":1,
+            "title":"سینمای انلاین فیلیمو"
+        }
+    ],
+    "cinamaDesc":[
+        {
+            "id":1,
+            "title":"فیلم‌های روز سینمای ایران"
+        },
+        {
+            "id":2,
+            "title":"۸ ساعت زمان برای مشاهده فیلم در هر کجا"
+        },
+        {
+            "id":3,
+            "title":"خرید یک بلیت برای تماشا همراه با همه خانواده"
+        }
+    ],
+    "film":[
+        {
+            "id":1,
+            "src":"https://iili.io/32kmUlV.webp",
+            "alt":"img",
+            "href":"#",
+            "name":"اپاراتچی",
+            "director":"کارگردان : قربانعلی طاهرفر",
+            "divDescOne":"خانوادگی",
+            "divDescTwo":"کمدی",
+            "btnCinama":"خرید بلیت",
+            "ekran":"اکران انلاین"
+        },
+        {
+            "id":2,
+            "src":"https://iili.io/32kmeob.webp",
+            "alt":"img",
+            "href":"#",
+            "name":"شه سوار",
+            "director":"کارگردان : حسین نمازی",
+            "divDescOne":"درام",
+            "divDescTwo":"کمدی",
+            "btnCinama":"خرید بلیت",
+            "ekran":"اکران انلاین"
+        },
+        {
+            "id":3,
+            "src":"https://iili.io/32kmvix.webp",
+            "alt":"img",
+            "href":"#",
+            "name":"شهر گربه ها",
+            "director":"کارگردان :سید جواد هاشمی",
+            "divDescOne":"خانوادگی",
+            "divDescTwo":"فانتزی",
+            "btnCinama":"خرید بلیت",
+            "ekran":"اکران انلاین"
+        },
+        {
+            "id":4,
+            "src":"https://iili.io/32kmNDu.webp",
+            "alt":"img",
+            "href":"#",
+            "name":"کارزار",
+            "director":"کارگردان :شهرام اسدزاده  ",
+            "divDescOne":"خانوادگی",
+            "divDescTwo":"درام",
+            "btnCinama":"خرید بلیت",
+            "ekran":"اکران انلاین"
+        },
+        {
+            "id":5,
+            "src":"https://iili.io/32kmkVj.webp",
+            "alt":"img",
+            "href":"#",
+            "name":"پول و پارتی",
+            "director":"کارگردان :سعید سهیلی  ",
+            "divDescOne":"عاشقانه",
+            "divDescTwo":"کمدی",
+            "btnCinama":"خرید بلیت",
+            "ekran":"اکران انلاین"
+        }
+
+    ],
+    "titleKarbar":[
+        {
+            "id":1,
+            "title":"نظر کاربران بعد از تماشای فیلیمو"
+        }
+    ],
+    "nazarKarbaran":[
+        {
+            "id":1,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        },
+        {
+            "id":2,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        },
+        {
+            "id":3,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        },
+        {
+            "id":4,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        },
+        {
+            "id":5,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        },
+        {
+            "id":6,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        },
+        {
+            "id":7,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        },
+        {
+            "id":8,
+            "nazar":
+"عالی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید "
+        }
+    ],
+    "footer":[
+        {
+            "id":1,
+            "title":"فیلیمو",
+            "DescOne":"هزاران فیلم و سریال خارجی (دوبله و زیرنویس)",
+            "DescTwo":"هزاران انیمیشن و کارتون برای کودکان",
+            "DescThree":"پشتیبانی 24 ساعته برای راهنمایی شما",
+            "href":"#",
+            "btn":"خرید اشتراک و تماشا"
+        }
+    ],
+    "titleAccar":[
+        {
+            "id":1,
+            "title":"سوالات متداول",
+            "desc":"سوال شایع دیگر کاربران شاید برای شما پیش امده باشد"
+        }
+    ],
+    "accr":[
+        {
+            "id":1,
+            "titleAccar":"آیا می‌توانم فیلم‌های موجود در فیلیمو را دانلود کنم؟",
+            "descAccar":"بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق  اپلیکیشن را تماشا کنید."
+        },
+        {
+            "id":2,
+            "titleAccar":"آیا فیلیمو برای خارج از ایران در دسترس است؟",
+            "descAccar":"خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست."
+        },
+        {
+            "id":3,
+            "titleAccar":"آیا برای تماشای فیلم‌های اکران آنلاین، باید اشتراک بخرم؟",
+            "descAccar":"تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید."
+        },
+        {
+            "id":4,
+            "titleAccar":"از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟",
+            "descAccar":"برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
+        }
+        
+    ]
+}

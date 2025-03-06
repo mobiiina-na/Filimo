@@ -1,0 +1,84 @@
+.slider{
+    width: 100%;
+    height: 530px;
+    background-color: lightpink;
+    position: relative;
+    .cover{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        background-color: rgba(0, 0, 0, 0.7);
+        z-index: 1;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        padding: 50px 0px;
+        box-sizing: border-box;
+        .withFilimo{
+            color: #F9A53D;
+            font-family: iranSans;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .control{
+            color: white;
+            font-family: iranSans;
+            font-size: 40px;
+            font-weight: bold;
+        }
+        .threeTiks{
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: center;
+            align-items: center;
+            gap: 100px;
+            .tik{
+                font-family: iranSans;
+                font-size: 14px;
+                color: rgb(255, 255, 255,0.7);
+            }
+        }
+        .watchDiscount{
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-flow: column nowrap;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            a[class="watchBtn"]{
+                width: 22%;
+                height: 62px;
+                text-decoration: none;
+                display: flex;
+                flex-flow: row nowrap;
+                justify-content: center;
+                align-items: center;
+                text-decoration: none ;
+                background-color: #1CB561;
+                border-radius: 10px;
+                color: white;
+                font-family: iranSans;
+                font-size: 16px;
+                border: none;
+                transition: 500ms;
+                cursor: pointer;
+                &:hover{
+                    background-color: #128144;
+                }
+            }
+            .discount{
+                color: rgba(255, 255, 255, 0.6);
+                font-family: iranSans;
+                font-size: 11px;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
